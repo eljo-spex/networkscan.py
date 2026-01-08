@@ -26,7 +26,7 @@ Install dependencies:
 
 Run the script with root privileges:
 
-	**sudo python3 scanner.py**
+	sudo python3 scanner.py
 
 
 Enter the network range when prompted:
