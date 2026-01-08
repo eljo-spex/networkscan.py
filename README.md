@@ -21,16 +21,16 @@ This tool scans a given network range (CIDR) and discovers live devices along wi
 
 Install dependencies:
 
-**pip install scapy**
+-**pip install scapy**
 
 ## ▶️ Usage
 
 Run the script with root privileges:
 
-**sudo python3 scanner.py**
+-**sudo python3 scanner.py**
 
 
 Enter the network range when prompted:
 
-Enter network ip address: **192.168.1.0/24**
+-Enter network ip address: **192.168.1.0/24**
 
