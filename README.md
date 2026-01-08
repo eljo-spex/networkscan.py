@@ -20,14 +20,13 @@ This tool scans a given network range (CIDR) and discovers live devices along wi
 - Root / Administrator privileges (required for ARP)
 
 Install dependencies:
-
--**pip install scapy**
+	**pip install scapy**
 
 ## ▶️ Usage
 
 Run the script with root privileges:
 
--**sudo python3 scanner.py**
+	**sudo python3 scanner.py**
 
 
 Enter the network range when prompted:
